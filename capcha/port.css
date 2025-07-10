@@ -189,6 +189,7 @@ padding: 20px;
 .nor 
 {
   font-size: small;
+  padding:10px;
 
 }
 .best
@@ -204,5 +205,71 @@ main section{
   margin-bottom: 130px;
 }
 
+/* no3 section */
+.caption
+{
+  display: flex;
+  justify-content: space-between;
+  gap:50px;
+  padding:60px;
+}
+.bold{
+  font-weight: 700;
+  font-size: 30px;
+  
+}
+.ball
+{
+  text-align: center;
+  font-weight: bolder;
+  font-size: 50px;
+  padding-top: 50px;
+  
+}
+.voss
+{
+  background-color: cadetblue;
+  margin: 0 auto;
+  
+}
 
+.hook
+{
+  max-width: 500px;
+}
+
+
+.tite{
+  font-size: large;
+  font-weight: bold;
+}
+
+.text-center
+{
+  text-align: center;
+margin-bottom: 10px;
+  padding-bottom: 50px;
+}
+.footer
+{
+  display: flex;
+  gap: 20px;
+  justify-content: space-around;
+  background-color: burlywood;
+  
+}
+.footer-columb
+{
+  width:50%;
+}
+footer input[type="text"], footer input[type="email"], footer textarea
+{
+  height:64px;
+  border-radius: 5px;
+  background-color: white;
+  width:100%;
+  padding: 10px 20px;
+  margin-bottom: 24px;
+  border: none;
+}
 
