@@ -1,0 +1,208 @@
+
+
+.chira
+{
+display: flex;
+justify-content: space-between;
+}
+
+.roboto-normal {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+   font-weight: 800;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+   
+    margin-left: 100px;
+    
+}
+ .Ex
+{
+    color: chartreuse;
+}
+.Textile{
+  text-decoration: none;
+  color: brown;
+  
+  
+  
+}
+
+nav li{
+  list-style: none;
+ display: inline;
+ color: black;
+ 
+}
+  .btn{
+  background-color:rgb(128, 252, 5);
+  font-size: medium;
+  color :white;
+  border:none;
+  padding: 20px;
+  border-radius: 5px;
+ 
+  
+}
+.guava a{
+ 
+  
+  font-size: medium;
+  margin-right: 70px;
+  
+}
+
+
+.bg{
+  font-size: 45px ;
+  font-weight: 600;
+}
+
+.title
+{
+  font-size:85px ;
+  font-weight:bold ;
+}
+
+ .head {
+  position: relative;
+  height: 100vh;
+  background-image: url('../developer.png'), url('../header_bg.png');
+  background-repeat: no-repeat;
+  background-position: top left, bottom right;
+  background-size:auto, auto;
+  z-index: 1;
+}
+  
+
+.image
+{
+display: flex;
+align-items: end;
+justify-content: end;
+
+ 
+}
+.banner
+{
+  display: flex;
+  justify-content: space-between;
+  margin:0 35px 0 200px;
+  height: 89%;
+}
+.banner-content
+{
+  /* margin-left: 100px; */
+  max-width: 580px;
+}
+
+/* about section */
+.section-title
+{
+  font-size: 35px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+ 
+  
+}
+
+.sectio-des
+{
+  font-size: 18px;
+  color: blue;
+  text-align: center;
+  
+  
+}
+.about
+{
+  
+  padding: 130px 150px;
+  border-radius: 10px;
+
+}
+.col{
+  background-color: aqua;
+}
+
+.new{
+  display: flex;
+  justify-content: space-around;
+  
+  
+}
+.earth
+{
+  text-align: center;
+}
+.due
+{
+  max-width: 1140px;
+  margin: 0 auto;
+  
+ 
+  
+}
+.moon
+{
+  font-weight: bold;
+}
+
+.learn
+{
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.yes
+{
+  text-align: center;
+}
+.tea{
+  padding: 100px;
+}
+.coffee
+{
+  background-color: burlywood;
+}
+
+.skills
+{
+ max-width: 200px;
+ box-shadow: 10px 10px 6px rgb(55, 45, 66) ;
+ gap:20px;
+padding: 20px;
+ 
+}
+.hero
+{
+  width: 40px;
+}
+.omg{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.nor 
+{
+  font-size: small;
+
+}
+.best
+{
+  display: flex;
+  justify-content: space-around;
+  
+   max-width: 1140px; 
+  
+}
+main section{
+  margin-top: 130px;
+  margin-bottom: 130px;
+}
+
+
+
